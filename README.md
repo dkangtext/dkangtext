@@ -1,40 +1,33 @@
-### WELCOME TO NAS'S SPACE 🔮
+<h1 align="center">👋 Hello there, I'm Dinh Khang</h1>
+<h3 align="center">🎓 I'm a student at @ <a href="https://en.uit.edu.vn/overview-vnuhcm-university-information-technology" target="_blank">University of Information Technology - VNUHCM</a></h3>
+<h3 align="center">💻 Department of Computer Networks and Data Communications with major in Information Security.</h3>
 
-----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dkangtext&label=Profile%20views&color=0e75b6&style=flat" alt="dkangtext" /> </p>
 
-### ✨ INTRODUCTION:
+<h3 align="left">Connect with me:</h3>
 
-Greetings to the tech-savvy and the tech-curious! 🥰
+<p align="left">
+<a href="https://twitter.com/dkangtext" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiennh23" height="30" width="40" /></a>
+<a href="https://fb.com/dkang.text" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thiennh23" height="30" width="40" /></a>
+<a href="https://instagram.com/dkang.text" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thienng.23" height="30" width="40" /></a>
+</p>
 
-  - I'm **Dinh Khang**, your not-so-typical coder on a mission to make programming a tad more entertaining. Now, don't be fooled by the jargon; I'm the kind of person who thinks debugging is just a fancy term for going on a wild goose chase.
+<h3 align="left">Activities:</h3>
 
-  - While others might flaunt their coding finesse, I'm here to break the mold and prove that you don't need to speak fluent Python to have a good time. Think of me as the rebel of the binary realm, adding a pinch of humor to an otherwise serious syntax party.
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkangtext&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20Used%20Languages" alt="dkangtext" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=dkangtext&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Dinh%20Khang's%20GitHub%20Stats" alt="dkangtext" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-  - Sure, my code might resemble a labyrinth more often than not, but at least it keeps me on my toes. I've made syntax errors an art form, turning the mundane into a comedy of bits and bytes. So, if you're tired of the code bragging and want a more down-to-earth, laughter-filled coding journey, you've come to the right place.
+<h3 align="left">Summary card:</h3>
 
-  - Join me in this tech escapade where error messages are the punchlines, and every failed compilation is just a plot twist in the grand comedy of coding. Let's embrace the quirks, enjoy the process, and code our way through a symphony of laughter!
-
-----
-
-### 👑 ABOUT ME:
-
-I'm currently navigating the intriguing landscape of academia as **a student at the University of Information Technology**, part of the Vietnam National University in the vibrant city of Ho Chi Minh. My academic journey revolves around the fascinating realm of **Information Security**, where I dive into the intricacies of safeguarding digital worlds.
-
-  - Beyond the binary and firewalls, you'll find me in my downtime immersing myself in the world of music. Whether it's the rhythmic beats or soulful melodies, music is my sanctuary, providing the perfect backdrop for relaxation and reflection.
-
-  - When I'm not decrypting codes or deciphering security protocols, you can catch me at a local café, sipping on a cup of coffee, and letting my mind wander. These moments of tranquility are essential for recharging the mental batteries and finding inspiration amid the hustle and bustle of student life.
-
-  - So, if you ever spot someone at a coffee shop with their headphones on, lost in the symphony of ones and zeros, that's probably me — juggling the complexities of Information Security with the simple joys of life. Join me in this balancing act, where the pursuit of knowledge meets the rhythm of relaxation! 🌞 
-
-----
-
-### 📫 CONTACT ME VIA:
-- **EMAIL**: 23520694@gm.uit.edu.vn
-- **FACEBOOK**: https://www.facebook.com/iwlzane
-
-
-
-<!---
-nasnw/nasnw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![dkangtext's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dkangtext&theme=react-dark&custom_title=Dinh+Khang's+Contribution+Graph&height=600&area=true)
