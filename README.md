@@ -45,15 +45,25 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dkangtext&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkangtext&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="dkangtext GitHub Stats" />
+</p>
+
+---
+
+## 📌 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkangtext&layout=compact&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=true" alt="dkangtext Top Languages" />
+</p>
 
 ---
 
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dkangtext)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/dkang.text)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dkang.text)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dkang.text)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dkangtext)
 
 📧 **Email:** [dkang.text@uit.edu.vn](mailto:dkang.text@uit.edu.vn)  
