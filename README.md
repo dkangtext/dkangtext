@@ -50,20 +50,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dkang.text)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dkang.text)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dkangtext)
-
----
-
-## 🚀 Featured Project: FraudGNN-RL
-
-> A **credit card fraud detection** system using **Graph Neural Networks (GNNs)** + **Reinforcement Learning (RL)**.
-
-- **Tech Stack:** Python, PyTorch, Kaggle Dataset  
-- **Achievements:**  
-  - 🏆 F1-score: `0.8957`  
-  - 📊 AUC-ROC: `0.9774`  
-  - 📈 AUC-PR: `0.8752`  
-- **Role:** Member  
-  - 🖼️ Created presentation slides and poster
-  - 🔍 Searched for and processed datasets used in the project
-  - 📝 Wrote the project report
-
