@@ -7,11 +7,6 @@
 📡 **Department:** Computer Networks and Communications  
 🔒 **Passion:** Building secure systems & leveraging machine learning for cybersecurity challenges.
 
----
-
-## 👨‍💻 Projects & Portfolio
-
-🔗 Check out my projects: [github.com/dkangtext](https://github.com/dkangtext)  
 💬 Ask me about: **Cybersecurity**, **Machine Learning**, **Secure System Design**
 
 ---
@@ -56,9 +51,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dkang.text)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dkangtext)
 
-📧 **Email:** [dkang.text@uit.edu.vn](mailto:dkang.text@uit.edu.vn)  
-🌐 **Portfolio:** [dkangtext.github.io](https://dkangtext.github.io)
-
 ---
 
 ## 🚀 Featured Project: FraudGNN-RL
@@ -70,7 +62,7 @@
   - 🏆 F1-score: `0.9280`  
   - 📊 AUC-ROC: `0.9960`  
   - 📈 AUC-PR: `0.7697`  
-- **Role:** Team Leader  
+- **Role:** Member  
   - 🧠 Designed the model  
   - 🛠 Implemented the core algorithm
 
