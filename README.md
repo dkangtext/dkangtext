@@ -43,17 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=dkangtext&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="dkangtext GitHub Stats" />
 </p>
 
----
-
-## 📌 Most Used Languages
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkangtext&layout=compact&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=true" alt="dkangtext Top Languages" />
 </p>
 
