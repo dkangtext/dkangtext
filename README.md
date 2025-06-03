@@ -43,6 +43,12 @@
 
 ---
 
+## 📈 GitHub Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dkangtext&theme=github-light&hide_border=true&area=true&color=1E3A8A&line=1E3A8A&point=1E3A8A" alt="Contributions Graph" />
+
+---
+
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dkangtext)
