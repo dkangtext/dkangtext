@@ -59,10 +59,11 @@
 
 - **Tech Stack:** Python, PyTorch, Kaggle Dataset  
 - **Achievements:**  
-  - 🏆 F1-score: `0.9280`  
-  - 📊 AUC-ROC: `0.9960`  
-  - 📈 AUC-PR: `0.7697`  
+  - 🏆 F1-score: `0.8957`  
+  - 📊 AUC-ROC: `0.9774`  
+  - 📈 AUC-PR: `0.8752`  
 - **Role:** Member  
-  - 🧠 Designed the model  
-  - 🛠 Implemented the core algorithm
+  - 🖼️ Created presentation slides and poster
+  - 🔍 Searched for and processed datasets used in the project
+  - 📝 Wrote the project report
 
