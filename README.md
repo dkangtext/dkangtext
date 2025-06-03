@@ -28,21 +28,6 @@
 
 ---
 
-## 🚀 Featured Project: FraudGNN-RL
-
-> A **credit card fraud detection** system using **Graph Neural Networks (GNNs)** + **Reinforcement Learning (RL)**.
-
-- **Tech Stack:** Python, PyTorch, Kaggle Dataset  
-- **Achievements:**  
-  - 🏆 F1-score: `0.9280`  
-  - 📊 AUC-ROC: `0.9960`  
-  - 📈 AUC-PR: `0.7697`  
-- **Role:** Team Leader  
-  - 🧠 Designed the model  
-  - 🛠 Implemented the core algorithm
-
----
-
 ## 📊 GitHub Stats & Most Used Languages
 
 <table>
@@ -70,5 +55,16 @@
 
 ---
 
-> **"Securing the future, one line of code at a time."**  
-> Thanks for visiting my profile! 🚀
+## 🚀 Featured Project: FraudGNN-RL
+
+> A **credit card fraud detection** system using **Graph Neural Networks (GNNs)** + **Reinforcement Learning (RL)**.
+
+- **Tech Stack:** Python, PyTorch, Kaggle Dataset  
+- **Achievements:**  
+  - 🏆 F1-score: `0.9280`  
+  - 📊 AUC-ROC: `0.9960`  
+  - 📈 AUC-PR: `0.7697`  
+- **Role:** Team Leader  
+  - 🧠 Designed the model  
+  - 🛠 Implemented the core algorithm
+
