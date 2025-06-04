@@ -97,4 +97,6 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dkangtext&theme=github-light&hide_border=true&area=true&color=1E3A8A&line=1E3A8A&point=1E3A8A" alt="Contributions Graph" />
 
+![Thank you Cover](/thanks-cover.png)
+
 ---
