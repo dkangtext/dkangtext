@@ -2,7 +2,7 @@
 
 ## 🧑‍💼 About Me
 
-I’m **Khang** — a dynamic and creative individual with a strong foundation in **Information Technology** at _[University of Information Technology - VNUHCM](https://www.uit.edu.vn)_, enriched by real-world experience in communication and event management.
+I’m **Đình Khang** — a dynamic and creative individual with a strong foundation in **Information Technology** at _[University of Information Technology - VNUHCM](https://www.uit.edu.vn)_, enriched by real-world experience in communication and event management.
 
 While I specialize in Information Security, my journey goes far beyond technical problem-solving. I thrive at the intersection of technology and collaboration, where building secure systems aligns with leading impactful projects and fostering community engagement.
 
