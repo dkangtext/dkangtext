@@ -1,24 +1,16 @@
 ![Welcome Cover](/khangnd.png)
 
-# 👋 Hi there, I'm Dinh Khang
-
-🎓 **Student at** [University of Information Technology - VNUHCM,](https://www.uit.edu.vn)  
-💻 **Major:** Information Security.
-📡 **Department:** Computer Networks and Communications.  
-
-💬 Let's talk about: **Cybersecurity**, **Machine Learning**.
-
---- 
-
 ## 🧑‍💼 About Me
 
-I’m **Khang** — a dynamic and creative individual with a strong foundation in Information Technology, enriched by real-world experience in communication and event management.
+I’m **Khang** — a dynamic and creative individual with a strong foundation in **Information Technology** at _[University of Information Technology - VNUHCM,]_(https://www.uit.edu.vn)  , enriched by real-world experience in communication and event management.
 
 While I specialize in Information Security, my journey goes far beyond technical problem-solving. I thrive at the intersection of technology and collaboration, where building secure systems aligns with leading impactful projects and fostering community engagement.
 
 Whether it's writing secure code, organizing meaningful events, or crafting compelling stories, I approach every challenge with passion, precision, and a strong team spirit.
 
----
+💬 Let's talk about: **Cybersecurity**, **Machine Learning**.
+
+--- 
 
 ## 📬 Connect with Me
 
