@@ -83,7 +83,7 @@ Whether it's writing secure code, organizing meaningful events, or crafting comp
 <table>
   <tr>
     <td>
-      <img src="https://gh-readme-stats.vercel.app/api?username=dkangtext&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=dkangtext&show_icons=true&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&icon_color=1E3A8A&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=dkangtext&layout=compact&theme=default&bg_color=FFFFFF&text_color=1E3A8A&title_color=1E3A8A&hide_border=true" alt="Top Languages" />
